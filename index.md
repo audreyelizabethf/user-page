@@ -23,6 +23,7 @@ I'm a second year Computer Science major with a minor in Art History! I've lived
 I have 2 bunnies (Itchie and Scratchie) and 3 chinchillas (Walnut, Mouse and Mochi)
 ![A picture of my bunnies when they were babies](./bunnies.jpeg)
 *my bunnies when they were babies*
+
 link to this photo:
 [Link to photo of my bunnies](./bunnies.jpeg)
 
