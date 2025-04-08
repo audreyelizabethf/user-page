@@ -48,6 +48,6 @@ My Personal Instagram: [@audreymousey on Instagram](https://instagram,com/audrey
 `print("Hello, world!")`
 
 ### To-Do List
-- [] go to store
-- [] finish homework
-- [] prep for upcoming market
+- [x] go to store
+- [ ] finish homework
+- [ ] prep for upcoming market
