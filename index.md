@@ -37,7 +37,7 @@ link to this photo:[Link to photo of my bunnies](./bunnies.jpeg)
 ### Links
 My Crochet Instagram:[@audrey.crochets on Instagram](https://instagram.com/audrey.crochets)
 
-My Personal Instagram: [@audreymousey on Instagram](https://instagram,com/audreymousey)
+My Personal Instagram: [@audreymousey on Instagram](https://instagram.com/audreymousey)
 
 - Go to **About Me**: [Go to About Me](#about-me)
 
